@@ -1,0 +1,35 @@
+p {
+    line-height: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: white
+}
+h1 {
+    font-size: 30px;
+    color: grey
+}
+li {
+    font-size: 20px;
+    color: grey
+}
+
+a:link {
+color: grey;
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: grey;
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: whitesmoke;
+background-color: transparent;
+text-decoration: none;
+}
+a:active {
+color: whitesmoke;
+background-color: transparent;
+text-decoration: none;
+}
